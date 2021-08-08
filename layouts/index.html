@@ -1,0 +1,18 @@
+{{define "main"}}
+
+<h3>index.html</h3>
+
+{{ $mainSections := .Site.Params.mainSections | default (slice "post") }}
+{{ $section := where .Site.RegularPages "Section" "in" $mainSections }}
+
+
+    <section class="w-100 mw8">
+        {{/* Range through the first $n_posts items of the section */}}
+        {{ range ($section) }}
+        <h3>posts here:</h3>
+            {{ partial "inpage-post.html" . }}
+        {{ end }}
+    </section>
+
+
+{{end}}

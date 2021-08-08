@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ block "title" . }}
+      {{ .Site.Title }}
+    {{ end }}</title>
+  </head>
+  <body>
+      <h1>baseof.html</h1>
+
+    <main class="pb7" role="main">
+      <h2>main block</h2>
+      {{ block "main" . }}{{ end }}
+      <h2>main close</h2>
+    </main>
+
+  </body>
+</html>
