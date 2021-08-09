@@ -1,18 +1,22 @@
 <!DOCTYPE html>
-<html>
+<html>{{readFile "joinus.txt" | safeHTML}}
   <head>
     <meta charset="utf-8">
     <title>{{ block "title" . }}
       {{ .Site.Title }}
     {{ end }}</title>
+    <link href='/css/main.css' rel='stylesheet' type='text/css'/>
+    <link href='/css/font-awesome.min.css' rel='stylesheet' type="text/css" />
+
   </head>
   <body>
-      <h1>baseof.html</h1>
-
-    <main class="pb7" role="main">
-      <h2>main block</h2>
-      {{ block "main" . }}{{ end }}
-      <h2>main close</h2>
+    <main class="main" role="main">
+      <div class="wrapper">
+        <div class="logo">
+            <img src="StuStaNet_Logo.png" alt="banner"/>
+        </div>
+        {{ block "main" . }}{{ end }}
+      </div>
     </main>
 
   </body>

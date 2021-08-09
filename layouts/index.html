@@ -1,6 +1,5 @@
 {{define "main"}}
 
-<h3>index.html</h3>
 <article>
     {{.Content}}
 </article>
@@ -8,18 +7,8 @@
 {{ $mainSections := .Site.Params.mainSections | default (slice "post") }}
 {{ $section := where .Site.RegularPages "Section" "in" $mainSections }}
 
-    
-    <section class="w-100 mw8">
-        {{ range where .Site.RegularPages "Section" .Section }}
-        <h3>posts here:</h3>
-            {{ partial "inpage-post.html" . }}
-        {{ end }}
-    </section>
-
-
     <section class="w-100 mw8">
         {{ range $section }}
-          <h3>posts here:</h3>
           <div class="relative w-100 mb4">
             {{ partial "inpage-post.html" . }}
           </div>
