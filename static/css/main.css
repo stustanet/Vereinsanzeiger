@@ -1,5 +1,19 @@
 .logo img{
-    width: 100%
+    width: 100%;
+    filter: invert(100%)
+}
+
+body{
+    background: black;
+    color: #149414 
+}
+
+a:link{
+    color: #9ccc9c 
+}
+
+a:visited {
+    color: #2b5329 
 }
 
 main{
@@ -12,8 +26,10 @@ main{
     width: 100%;
     max-width: 950px;
     margin: auto;
-    box-shadow: 0 0 20px #1b54ac;
+    box-shadow: 0 0 70px white;
+    border-radius: 10px;
     padding: 30px;
+    text-align: justify;
 }
 
 @media (max-width: 1000px){
@@ -23,4 +39,21 @@ main{
     .wrapper{
         padding:5px;
     }
+}
+
+table tr:nth-child(even) td {
+    background: hsl(0, 0%, 15%);
+    margin: 0;
+}
+
+
+tr td {
+    white-space: nowrap;
+    padding-right: 10px
+}
+
+.page-title{
+    font-size: 2em;
+    text-align: center;
+    margin-top: 0px;
 }
