@@ -19,7 +19,7 @@ a:visited {
 main{
     margin-top: 50px;
     margin-bottom: 50px;
-    font-family: sans-serif;
+    font-family: monospace;
 }
 
 .wrapper{
