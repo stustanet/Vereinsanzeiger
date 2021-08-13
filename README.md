@@ -21,6 +21,7 @@ Edit the `title`, this will be displayed as the posts title. You can leave `date
 `draft` should also be left unchanged, if set to false the post will not be included in the rendered webpage. `display_on_front_page` determines weather the post
 should be displayed on the index page. Since we `history` lists all old posts it makes sense to have this flag only set to true for the latest 1-3 posts.
 
+
 The rest of the file is the content and it can be written in normal markdown syntax. The project includes a hugo shortcode to use bootstrap formatted tables. 
 For an example see `content/history/haw_ss21.md`.
 
