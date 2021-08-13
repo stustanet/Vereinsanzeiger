@@ -1,4 +1,6 @@
-# Vereinsanzeiger des StuStaNet e. V.
+# Vereinsanzeiger of StuStaNet e. V.
+
+A static webpage that displays announcements of the student association StuStaNet e. V.
 
 ## Add a new page
 
