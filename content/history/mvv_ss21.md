@@ -1,6 +1,6 @@
 ---
 title: "Mitgliedervollversammlung im Sommersemester 2021"
-date: 2021-08-12T19:24:50+02:00
+date: 2021-08-13T10:24:50+02:00
 draft: false
 display_on_front_page: true
 ---
