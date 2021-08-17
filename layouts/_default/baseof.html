@@ -16,9 +16,9 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
     <main class="main" role="main">
       <div class="wrapper">
-        <div class="logo">
+        <a class="logo" href="/" alt="StuStaNet">
             <img src="/StuStaNet_Logo.png" alt="banner"/>
-        </div>
+        </a>
         {{ block "main" . }}{{ end }}
       </div>
    
@@ -32,13 +32,13 @@
       <span>&copy; 2021 StuStaNet e. V.</span>
     </div>
     <div class="col text-center text-muted">
-      <a class="text-muted" href="{{ .Site.BaseURL }}/history">Alte Bekanntmachungen</a>
+      <a class="text-muted" href="/history">Alte Bekanntmachungen</a>
     </div>
     <div class="col text-center text-muted">
-      <a class="text-muted" href="satzung.pdf">Satzung</a>
+      <a class="text-muted" href="/satzung.pdf">Satzung</a>
     </div>
     <div class="col text-center text-muted">
-      <a class="text-muted" href="nutzerordnung.pdf">Nutzerordnung de</a> / <a class="text-muted" href="nutzerordnung_en.pdf">en</a>
+      <a class="text-muted" href="/nutzerordnung.pdf">Nutzerordnung de</a> / <a class="text-muted" href="nutzerordnung_en.pdf">en</a>
   </div>
     <div class="col text-center text-muted">
       <a class="text-muted" href="https://stustanet.de/de/impressum/">Impressum</a>
