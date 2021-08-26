@@ -23,7 +23,7 @@ main{
 a {
     color: #1b54ac;
     cursor: pointer;
-    text-decoration: none;
+    text-decoration: none !important;
 }
 
 a:hover,
