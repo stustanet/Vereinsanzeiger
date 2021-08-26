@@ -24,7 +24,7 @@ Edit the `title`, this will be displayed as the posts title. You can leave `date
 should be displayed on the index page. Since we `history` lists all old posts it makes sense to have this flag only set to true for the latest 1-3 posts.
 
 
-The rest of the file is the content and it can be written in normal markdown syntax. The project includes a hugo shortcode to use bootstrap formatted tables. 
+The rest of the file is the content and it can be written in normal [markdown syntax](https://www.markdownguide.org/basic-syntax/). The project includes a hugo shortcode to use bootstrap formatted tables. This is very useful for announcing Hausadminwahlen. 
 For an example see `content/history/haw_ss21.md`.
 
 ## Advanced
