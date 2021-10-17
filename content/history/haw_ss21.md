@@ -2,7 +2,7 @@
 title: "Hausadminwahlen für die Amtsperiode im Sommersemester 2021"
 date: 2021-05-05T00:00:00+02:00
 draft: false
-display_on_front_page: true
+display_on_front_page: false
 ---
 
 {{< bootstrap-table table_class="table table-striped table-bordered" >}}
