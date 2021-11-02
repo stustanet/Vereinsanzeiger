@@ -10,8 +10,26 @@
     <link href='/css/main.css' rel='stylesheet' type='text/css'/>
   </head>
   <body>
+
+    <div id="snow"></div>
+
+    <script type="module">
+    //import the Snow module
+    import * as Snow from '/snow.js'
+
+    // Snow script included on the page, already.
+    window.onload = function () {
+        var snow = new Snow.default({
+            id: 'snow'
+        });
+
+        //Can run the snowfall by calling:
+        snow.start();
+    }
+    </script>
+
     <br>
-    <main class="main" role="main">
+    <main class="main bg-light" role="main">
       <div class="wrapper">
         <a class="logo" href="/" alt="StuStaNet">
             <img src="/StuStaNet_Logo.png" alt="banner"/>
@@ -22,23 +40,23 @@
     </main>
 
       <br>
-      <footer class="footer mt-auto py-3 bg-dark">
+      <footer class="footer mt-auto py-2 bg-dark">
   <div class="container">
       <div class="row align-items-center">
-    <div class="col text-center text-muted">
-      <a class="text-muted" href="https://stustanet.de" target="_blank">&copy; 2021 StuStaNet e. V.</a>
+    <div class="col text-center footer-text">
+      <a class="footer-text" href="https://stustanet.de" target="_blank">&copy; 2021 StuStaNet e. V.</a>
     </div>
-    <div class="col text-center text-muted">
-      <a class="text-muted" href="/history">Alte Bekanntmachungen</a>
+    <div class="col text-center footer-text">
+      <a class="footer-text" href="/history">Alte Bekanntmachungen</a>
     </div>
-    <div class="col text-center text-muted">
-      <a class="text-muted" href="/satzung.pdf">Satzung</a>
+    <div class="col text-center footer-text">
+      <a class="footer-text" href="/satzung.pdf">Satzung</a>
     </div>
-    <div class="col text-center text-muted">
-      <a class="text-muted" href="/nutzerordnung.pdf">Nutzerordnung de</a> / <a class="text-muted" href="nutzerordnung_en.pdf">en</a>
+    <div class="col text-center footer-text">
+      <a class="footer-text" href="/nutzerordnung.pdf">Nutzerordnung de</a> / <a class="footer-text" href="nutzerordnung_en.pdf">en</a>
   </div>
-    <div class="col text-center text-muted">
-      <a class="text-muted" href="https://stustanet.de/de/impressum/">Impressum</a>
+    <div class="col text-center footer-text">
+      <a class="footer-text" href="https://stustanet.de/de/impressum/">Impressum</a>
     </div>
   </div>
 </footer> 
