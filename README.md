@@ -27,6 +27,14 @@ should be displayed on the index page. Since we `history` lists all old posts it
 The rest of the file is the content and it can be written in normal [markdown syntax](https://www.markdownguide.org/basic-syntax/). The project includes a hugo shortcode to use bootstrap formatted tables. This is very useful for announcing Hausadminwahlen. 
 For an example see `content/history/haw_ss21.md`.
 
+To view the result, run the development server with
+```shell
+hugo runserver
+```
+
+## Wumpe
+Our production server is configured such that a commit on the the `main` branch is automatically deployed on zoidberg. Thus, be careful when adding new changes. See [Wumpe](https://gitlab.stusta.de/stustanet/wumpe).
+
 ## Advanced
 To change the layout of the front page see `layouts/index.html` and the base layout file in `layouts/_defaults/baseof.html`.
 In order to edit single posts pages (yes they exist under history/<post_file_name_without_md>) see `layouts/_defaults/single.html`. For the listing in history see `layouts/_defaults/list.html`.
