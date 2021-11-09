@@ -17,7 +17,7 @@ Tagesordnung
 4. Zukünftige Höhe des Semesterbeitrages (momentan 0 EUR)
 5. Spendenbudget
 6. Genehmigung des Haushaltsplans
-7. Offizielle Ausgliederung von Haus 9, 11, und 13
+7. Offizielle Ausgliederung von Haus 9, 11 und 13
 8. Wahl der Sonderadministratoren
 9. Fragen an den Vorstand und die Administratoren
 10. Sonstiges
