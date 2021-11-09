@@ -23,4 +23,4 @@ Tagesordnung
 10. Sonstiges
 
 
-Zu 7\.: Bewerbungen für Sonderadmin- und Kassenprüferämter sind bis kurz vor der Wahl selbst noch möglich (zur einfacheren Organisation bei Interesse am besten bereits vorher eine Mail an [vorstand[at]stustanet.de](https://stustanet.de/mail/vorstand) senden).  
+Zu 7\.: Bewerbungen für Sonderadminämter sind bis kurz vor der Wahl selbst noch möglich (zur einfacheren Organisation bei Interesse am besten bereits vorher eine Mail an [vorstand[at]stustanet.de](https://stustanet.de/mail/vorstand) senden).  
