@@ -5,7 +5,7 @@ draft: false
 display_on_front_page: false
 ---
 
-{{< bootstrap-table table_class="table table-striped table-bordered" thead_class="table-dark" >}}
+{{< ssn-table >}}
 | Haus                      | Datum    | Uhrzeit | Ort                      | max. Anzahl an Admins | Bemerkung |
 |---------------------------|:---------|:--------|:-------------------------|----------------------:|-----------|
 | MKH und O2 Wohnwürfel     | 14.05.21 | 20:00   | online via BigBlueButton | 9                     |           |
@@ -22,7 +22,7 @@ display_on_front_page: false
 | Rotes Haus (Haus 13)      |          |         |                          |                       |           |
 | Haus 14                   | 14.05.21 | 20:30   | online via BigBlueButton | 8                     |           |
 | Max-Bill                  | 14.05.21 | 20:00   | online via BigBlueButton | 8                     |           |
-{{< /bootstrap-table >}}
+{{< /ssn-table >}}
 
 &nbsp;
 
