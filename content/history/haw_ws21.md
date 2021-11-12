@@ -5,7 +5,7 @@ draft: false
 display_on_front_page: true
 ---
 
-{{< bootstrap-table table_class="table table-striped table-bordered" thead_class="table-dark" >}}
+{{< bootstrap-table >}}
 | Haus                      | Datum    | Uhrzeit | Ort                      | Max. Anzahl an Admins | Bemerkung |
 |---------------------------|:---------|:--------|:-------------------------|----------------------:|-----------|
 | MKH und O2 Wohnwürfel     | 05.11.21 | 20:00   | online via BigBlueButton | 7                     |           |

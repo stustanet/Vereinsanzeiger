@@ -1,8 +1,8 @@
 
 <!-- Taken from https://www.mybluelinux.com/how-create-bootstrap-tables-in-hugo/ -->
 {{ $htmlTable := .Inner | markdownify }}
-{{ $table_class := .Get "table_class" }}
-{{ $thead_class := .Get "thead_class" }}
+{{ $table_class := default "table table-striped table-bordered" (.Get "table_class") }}
+{{ $thead_class := default "table-dark" (.Get "thead_class") }}
 {{ if .Get "caption" }}
     {{ $caption := .Get "caption" }} 
     {{ $old_cap := "<table>" }}
