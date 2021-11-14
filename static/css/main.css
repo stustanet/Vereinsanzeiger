@@ -4,6 +4,19 @@
 
 footer{
     border-top:2px solid rgba(20, 20, 20, 1);
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    min-height: 24px;
+}
+
+html{
+    position: relative;
+    min-height: 100%;
+}
+
+body{
+    margin-bottom: 50px;
 }
 
 main{
