@@ -6,7 +6,7 @@ display_on_front_page: true
 ---
 
 Datum: _25. November 2021, 20:00 Uhr_  
-Ort: _[EWH-Vorbau](https://www.openstreetmap.org/way/60321098)_  
+Ort: _Onlinekonferenz per [BigBlueButton](https://bbb.stusta.de/b/lel-0ng-ggn-q2q)_  
 
 Tagesordnung
 
