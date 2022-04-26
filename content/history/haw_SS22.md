@@ -13,7 +13,7 @@ display_on_front_page: true
 | Haus 3                    | 06.05.22 | 19:30   | online via BigBlueButton |  5                    |           |
 | EWH                       | 06.05.22 | 20:30   | online via BigBlueButton | 10                    |           |
 | Haus 5 & 8                | 06.05.22 | 20:00   | online via BigBlueButton |  4                    |           |
-| Haus 6                    | 05.05.22 | 19:00   | auf der Hausversammlung  |  4                    |           |
+| Haus 6                    | 06.05.22 | 20:30   | online via BigBlueButton |  4                    |           |
 | Haus 7                    | 06.05.22 | 19:30   | online via BigBlueButton |  5                    |           |
 | HSH (Grünes Haus, Haus 9) |          |         |                          |                       |           |
 | Haus 10, 17, 18 & 19      | 06.05.22 | 20:00   | online via BigBlueButton |  4                    |           |
