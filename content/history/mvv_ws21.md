@@ -2,7 +2,7 @@
 title: "Mitgliedervollversammlung im Wintersemester 2021/2022"
 date: 2021-11-09T12:47:15+01:00
 draft: false
-display_on_front_page: true
+display_on_front_page: false
 ---
 
 Datum: _25. November 2021, 20:00 Uhr_  
