@@ -2,7 +2,7 @@
 title: "Hausadminwahlen für die Amtsperiode im Sommersemester 2022"
 date: 2022-04-19T23:00:24+02:00
 draft: false
-display_on_front_page: true
+display_on_front_page: false
 ---
 
 {{< bootstrap-table >}}
