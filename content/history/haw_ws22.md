@@ -10,7 +10,7 @@ display_on_front_page: true
 |---------------------------|:---------|:--------|:-------------------------|----------------------:|-----------|
 | MKH und O2 Wohnwürfel     | 10.11.22 | 20:00   | MKH Vorbau               | 9                     |           |
 | Haus 2                    | TBD      |  TBD    |                          |                       |           |
-| Haus 3                    | 14.11.22 | 19:00   |                          |                       |           |
+| Haus 3                    | 14.11.22 | 19:00   | 3C Erdgeschoss GAP       | 4                     |           |
 | EWH                       | 15.11.22 | 20:00   | EWH Erdgeschoss GAP      | 12                    |           |
 | Haus 5 & 8                | TBD      |  TBD    |                          |                       |           |
 | Haus 6                    | TBD      |  TBD    |                          |                       |           |
