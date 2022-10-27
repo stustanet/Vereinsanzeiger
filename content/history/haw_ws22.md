@@ -21,7 +21,7 @@ display_on_front_page: true
 | Oranges Haus (Haus 12)    |          |         |                          |                       |           |
 | Rotes Haus (Haus 13)      |          |         |                          |                       |           |
 | Haus 14                   | TBD      |  TBD    |                          |                       |           |
-| Max-Bill                  | 14.11.22 | 20:00   | Max-Bill 2.Stock GAP     |                       |           |
+| Max-Bill                  | 14.11.22 | 20:00   | Max-Bill 2.Stock GAP     | 9                     |           |
 {{< /bootstrap-table >}}
 
 &nbsp;
