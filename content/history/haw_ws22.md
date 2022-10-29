@@ -9,18 +9,18 @@ display_on_front_page: true
 | Haus                      | Datum    | Uhrzeit | Ort                      | Max. Anzahl an Admins | Bemerkung |
 |---------------------------|:---------|:--------|:-------------------------|----------------------:|-----------|
 | MKH und O2 Wohnwürfel     | 10.11.22 | 20:00   | MKH Vorbau               | 9                     |           |
-| Haus 2                    | TBD      |  TBD    |                          |                       |           |
+| Haus 2                    | 14.11.22 | 20:00   | 2A Erdgeschoss GAP       | 6                     |           |
 | Haus 3                    | 14.11.22 | 19:00   | 3C Erdgeschoss GAP       | 4                     |           |
 | EWH                       | 15.11.22 | 20:00   | EWH Erdgeschoss GAP      | 12                    |           |
-| Haus 5 & 8                | TBD      |  TBD    |                          |                       |           |
-| Haus 6                    | TBD      |  TBD    |                          |                       |           |
-| Haus 7                    | TBD      |  TBD    |                          |                       |           |
+| Haus 5 & 8                | TBD      |  TBD    |                          | 5                     |           |
+| Haus 6                    | TBD      |  TBD    |                          | 4                     |           |
+| Haus 7                    | TBD      |  TBD    |                          | 5                     |           |
 | HSH (Grünes Haus, Haus 9) |          |         |                          |                       |           |
-| Haus 10, 17, 18 & 19      | TBD      |  TBD    |                          |                       |           |
+| Haus 10, 17, 18 & 19      | TBD      |  TBD    |                          | 4                     |           |
 | Blaues Haus (Haus 11)     |          |         |                          |                       |           |
 | Oranges Haus (Haus 12)    |          |         |                          |                       |           |
 | Rotes Haus (Haus 13)      |          |         |                          |                       |           |
-| Haus 14                   | TBD      |  TBD    |                          |                       |           |
+| Haus 14                   | TBD      |  TBD    |                          | 8                     |           |
 | Max-Bill                  | 14.11.22 | 20:00   | Max-Bill 2.Stock GAP     | 9                     |           |
 {{< /bootstrap-table >}}
 
