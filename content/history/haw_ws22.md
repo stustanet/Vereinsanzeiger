@@ -12,15 +12,15 @@ display_on_front_page: true
 | Haus 2                    | 14.11.22 | 20:00   | 2A Erdgeschoss GAP       | 6                     |           |
 | Haus 3                    | 14.11.22 | 19:00   | 3C Erdgeschoss GAP       | 4                     |           |
 | EWH                       | 15.11.22 | 20:00   | EWH Erdgeschoss GAP      | 12                    |           |
-| Haus 5 & 8                | TBD      |  TBD    | Online (https://bbb.stusta.de/jan-pa4-cnx-yzh) | 5                     |           |
-| Haus 6                    | TBD      |  TBD    | Online (https://bbb.stusta.de/jan-ibz-8pd-mfe) | 4                     |           |
-| Haus 7                    | TBD      |  TBD    | Online (https://bbb.stusta.de/jan-0n0-ptq-td3) | 5                     |           |
+| Haus 5 & 8                | 15.11.22 | 20:00   | Online (https://bbb.stusta.de/jan-pa4-cnx-yzh) | 5                     |           |
+| Haus 6                    | 15.11.22 | 20:00   | Online (https://bbb.stusta.de/jan-ibz-8pd-mfe) | 4                     |           |
+| Haus 7                    | 15.11.22 | 20:30   | Online (https://bbb.stusta.de/jan-0n0-ptq-td3) | 5                     |           |
 | HSH (Grünes Haus, Haus 9) |          |         |                          |                       |           |
-| Haus 10, 17, 18 & 19      | TBD      |  TBD    | Online (https://bbb.stusta.de/jan-rb7-w2o-i9r) | 4                     |           |
+| Haus 10, 17, 18 & 19      | 15.11.22 | 20:30   | Online (https://bbb.stusta.de/jan-rb7-w2o-i9r) | 4                     |           |
 | Blaues Haus (Haus 11)     |          |         |                          |                       |           |
 | Oranges Haus (Haus 12)    |          |         |                          |                       |           |
 | Rotes Haus (Haus 13)      |          |         |                          |                       |           |
-| Haus 14                   | TBD      |  TBD    | Online (https://bbb.stusta.de/jan-bpb-hhg-r6f) | 8                     |           |
+| Haus 14                   | 15.11.22 | 20:30   | Online (https://bbb.stusta.de/jan-bpb-hhg-r6f) | 8                     |           |
 | Max-Bill                  | 14.11.22 | 20:00   | Max-Bill 2.Stock GAP     | 9                     |           |
 {{< /bootstrap-table >}}
 
