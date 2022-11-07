@@ -2,7 +2,7 @@
 title: "Mitgliedervollversammlung im Sommersemester 2022"
 date: 2022-05-17T17:05:15+02:00
 draft: false
-display_on_front_page: true
+display_on_front_page: false
 ---
 
 Datum: _02. Juni 2022, 20:00 Uhr_  
