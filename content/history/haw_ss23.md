@@ -12,7 +12,7 @@ display_on_front_page: true
 | Haus 2                    | tba      | tba     | tba                      | 6                     |                                  |
 | Haus 3                    | 25.04.23 | tba     | tba                      | 5                     |                                  |
 | EWH                       | 25.04.23 | 20:00   | EWH-Vorbau               | 12                    |                                  |
-| Haus 5 & 8                | tba      | tba     | tba                      | 4                     |                                  |
+| Haus 5 & 8                | 20.04.23 | 19:00   | tba                      | 4                     |                                  |
 | Haus 6                    | 20.04.23 | 20:00   | EWH-Vorbau               | 4                     |                                  |
 | Haus 7                    | tba      | tba     | tba                      | 5                     |                                  |
 | HSH (Grünes Haus, Haus 9) | -        | -       | -                        | -                     |                                  |
