@@ -9,14 +9,14 @@ display_on_front_page: true
 | Haus                      | Datum    | Uhrzeit | Ort                      | Max. Anzahl an Admins | Bemerkung                        |
 |---------------------------|:---------|:--------|:-------------------------|----------------------:|----------------------------------|
 | MKH und O2 Wohnwürfel     | 27.04.23 | 19:00   | MKH-Vorbau               | 9                     | Bei schönem Wetter evtl. draußen |
-| Haus 2                    | tba      | tba     | tba                      | 6                     |                                  |
-| Haus 3                    | 25.04.23 | tba     | tba                      | 5                     |                                  |
+| Haus 2                    | 28.04.23 | 19:00   | Haus 2a                  | 6                     |                                  |
+| Haus 3                    | 25.04.23 | 20:00   | Zwischen Haus 3b und 3d  | 5                     | Bei schlechtem Wetter Haus 3a GAP|
 | EWH                       | 25.04.23 | 20:00   | EWH-Vorbau               | 12                    |                                  |
 | Haus 5 & 8                | 20.04.23 | 19:00   | tba                      | 4                     |                                  |
 | Haus 6                    | 20.04.23 | 20:00   | EWH-Vorbau               | 4                     |                                  |
 | Haus 7                    | tba      | tba     | tba                      | 5                     |                                  |
 | HSH (Grünes Haus, Haus 9) | -        | -       | -                        | -                     |                                  |
-| Haus 10, 17, 18 & 19      | tba      | tba     | tba                      | 4                     |                                  |
+| Haus 10, 17, 18 & 19      | 22.04.23 | tba     | tba                      | 4                     | Vor Tutorevent                   |
 | Blaues Haus (Haus 11)     | -        | -       | -                        | -                     |                                  |
 | Oranges Haus (Haus 12)    | -        | -       | -                        | -                     |                                  |
 | Rotes Haus (Haus 13)      | -        | -       | -                        | -                     |                                  |
