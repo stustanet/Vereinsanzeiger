@@ -12,7 +12,7 @@ display_on_front_page: true
 | Haus 2                    | 28.04.23 | 19:00   | Haus 2a                  | 6                     |                                  |
 | Haus 3                    | 25.04.23 | 20:00   | Zwischen Haus 3b und 3d  | 5                     | Bei schlechtem Wetter Haus 3a GAP|
 | EWH                       | 25.04.23 | 20:00   | EWH-Vorbau               | 12                    |                                  |
-| Haus 5 & 8                | 20.04.23 | 19:00   | tba                      | 4                     |                                  |
+| Haus 5 & 8                | 20.04.23 | 19:00   | Haus 5a GAP              | 4                     |                                  |
 | Haus 6                    | 20.04.23 | 20:00   | EWH-Vorbau               | 4                     |                                  |
 | Haus 7                    | tba      | tba     | tba                      | 5                     |                                  |
 | HSH (Grünes Haus, Haus 9) | -        | -       | -                        | -                     |                                  |
@@ -21,7 +21,7 @@ display_on_front_page: true
 | Oranges Haus (Haus 12)    | -        | -       | -                        | -                     |                                  |
 | Rotes Haus (Haus 13)      | -        | -       | -                        | -                     |                                  |
 | Haus 14                   | 25.04.23 | 20:00   | MKH-Vorbau               | 7                     |                                  |
-| Max-Bill                  | tba      | tba     | tba                      | 8                     |                                  |
+| Max-Bill                  | 05.05.23 | 20:00   | 1. Stock Gap             | 8                     |                                  |
 {{< /bootstrap-table >}}
 
 &nbsp;
