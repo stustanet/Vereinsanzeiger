@@ -14,7 +14,7 @@ display_on_front_page: true
 | EWH                       | 25.04.23 | 20:00   | EWH-Vorbau               | 12                    |                                  |
 | Haus 5 & 8                | 20.04.23 | 19:00   | Haus 5a GAP              | 4                     |                                  |
 | Haus 6                    | 20.04.23 | 20:00   | EWH-Vorbau               | 4                     |                                  |
-| Haus 7                    | tba      | tba     | tba                      | 5                     |                                  |
+| Haus 7                    | 04.05.23 | 20:00   | Haus 7c GAP              | 5                     |                                  |
 | HSH (Grünes Haus, Haus 9) | -        | -       | -                        | -                     |                                  |
 | Haus 10, 17, 18 & 19      | 22.04.23 | tba     | tba                      | 4                     | Vor Tutorevent                   |
 | Blaues Haus (Haus 11)     | -        | -       | -                        | -                     |                                  |
