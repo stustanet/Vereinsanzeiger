@@ -16,8 +16,8 @@ display_on_front_page: true
 | Haus 6                    | 20.04.23 | 20:00   | EWH-Vorbau               | 4                     |                                  |
 | Haus 7                    | 04.05.23 | 20:00   | Haus 7c GAP              | 5                     |                                  |
 | HSH (Grünes Haus, Haus 9) | -        | -       | -                        | -                     |                                  |
-| Haus 10, 17, 18 & 19      | 22.04.23 | tba     | tba                      | 4                     | Vor Tutorevent                   |
-| Blaues Haus (Haus 11)     | -        | -       | -                        | -                     |                                  |
+| Haus 10, 17, 18 & 19      | 22.04.23 | -       | -                        | 4                     | Vor Tutorevent                   |
+| Blaues Haus (Haus 11)     | 03.06.23 | 20:00   | 5. Stock GAP             | 4                     |                                  |
 | Oranges Haus (Haus 12)    | -        | -       | -                        | -                     |                                  |
 | Rotes Haus (Haus 13)      | -        | -       | -                        | -                     |                                  |
 | Haus 14                   | 25.04.23 | 20:00   | MKH-Vorbau               | 7                     |                                  |
