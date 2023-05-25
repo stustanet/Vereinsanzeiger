@@ -1,5 +1,5 @@
 ---
-title: "Mitgliedervollversammlung im Sommersemester 2022"
+title: "Mitgliedervollversammlung im Sommersemester 2023"
 date: 2023-05-25T17:55:15+02:00
 draft: false
 display_on_front_page: true
