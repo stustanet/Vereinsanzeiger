@@ -5,7 +5,7 @@ draft: false
 display_on_front_page: true
 ---
 
-Datum: _15. Juni 2022, 20:00 Uhr_  
+Datum: _15. Juni 2023, 20:00 Uhr_  
 Ort: _EWH-Vorbau_  
 
 Tagesordnung
