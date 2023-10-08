@@ -6,22 +6,22 @@ display_on_front_page: true
 ---
 
 {{< bootstrap-table >}}
-| Haus                                 | Datum    | Uhrzeit |    Ort                                     | Max. Anzahl an Admins | Bemerkung  |
+| Haus                             | Datum    | Uhrzeit |    Ort                                     | Max. Anzahl an Admins | Bemerkung  |
 |---------------------------|:---------|:--------|:-------------------------|----------------------:|----------------------------------|
-| MKH und O2 Wohnwürfel   |             | -              |                | -                             |       9                                  | - |
-| Haus 2                                | 14.11.23  |   20:30.    | 2A Erdgeschoss GAP         |       6                     |                                  |
-| Haus 3                                | 24.10.23  |   20:00     | Zwischen Haus 3b und 3d  |.      5                     | Bei schlechtem Wetter Haus 3a GAP|
-| EWH                                   |        -         | -               |            -                                |      12                    |                -                  |
-| Haus 5 & 8                          |                 |                  |             -                               |        4                     |                .                  |
-| Haus 6                                |                 |                 |             -                                |       4                      |                -                 |
-| Haus 7                                |                 |                 |               -                              |       5                      |                 -                 |
-| HSH (Grünes Haus, Haus 9) | -            | -               |              .                               |                                |            -                   |               |
-| Haus 10, 17, 18 & 19     | | | -                 | -                |                          -                |       4                        |               -                   |
-| Blaues Haus (Haus 11)      |   26.10.23   |  20:00   | -                        | -                 |                                |               -                   |
-| Oranges Haus (Haus 12)    | -                 | -            | -                        | -                |                                  |             -              |
-| Rotes Haus (Haus 13)         | -                | -           | -                        | -                  |                                  |            -             |
-| Haus 14                   |                                               |                                             |       7                     |                -               |
-| Max-Bill                               |   -                | -              |               -                           |        8                     |                _ -                |
+| MKH und O2 Wohnwürfel  |             | -              |                | -                             |  9                              |-               |
+| Haus 2                                | 14.11.23  | 20:30 | 2A Erdgeschoss GAP | 5            |            -                      |
+| Haus 3                                | 24.10.23  |   20:00     | Zwischen Haus 3b und 3d  | 6                  | Bei schlechtem Wetter Haus 3a GAP|
+| EWH                                   |     -         | -               |   -                                 | 11                    |                -                  |
+| Haus 5 & 8                          |     -          |   -               |   -                              | 5                    |                .                  |
+| Haus 6                                |      -         |    -             |    -                              | 4                   |                -                 |
+| Haus 7                                |       -          |   -              |    -                            |  5                 |                 -                 |
+| HSH (Grünes Haus, Haus 9) | -            | -               |   -                               |   -                 |            -                   |              
+| Haus 10, 17, 18 & 19     | | | -                 | -              |   -                               |  4                      |               -                   |
+| Blaues Haus (Haus 11)      |   26.10.23   |  20:00   | -                                  | 13                  |               -                   |
+| Oranges Haus (Haus 12)    | -                 | -            | -                                  | -                        |             -              |
+| Rotes Haus (Haus 13)         | -                | -           | -                                   |  -                     |            -             |
+| Haus 14                               |   -                |    -      |  -                                  |  7                     |                -               |
+| Max-Bill                               |   -                | -          |  -                                 |  8                     |                _               |
 {{< /bootstrap-table >}}
 
 &nbsp;
