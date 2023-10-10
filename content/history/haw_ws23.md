@@ -7,10 +7,10 @@ display_on_front_page: true
 
 {{< bootstrap-table >}}
 | Haus                             | Datum    | Uhrzeit |    Ort                                     | Max. Anzahl an Admins | Bemerkung  |
-|---------------------------|:---------|:--------|:-------------------------|----------------------:|----------------------------------|
-| MKH und O2 Wohnwürfel  |             | -              |                | -                  | 9                              |-               |
-| Haus 2                                | 14.11.23  | 20:30 | 2A Erdgeschoss GAP | 5            |            -                      |
-| Haus 3                                | 24.10.23  |   20:00     | Zwischen Haus 3b und 3d |  6                                     | Bei schlechtem Wetter Haus 3a GAP|
+|---------------------------|:---------|:--------|:------ -------------------|----------------------:|----------------------------------|
+| MKH und O2 Wohnwürfel  |26.10.23|   20:00          | 1.Stock           |                | -                | 9                                              |-               |
+| Haus 2                         |30.10.23  | 20:00 | 2A Erdgeschoss GAP | 5            |            -                      |
+| Haus 3                        | 24.10.23  |   20:00     | Zwischen Haus 3b und 3d |  6                                     | Bei schlechtem Wetter Haus 3a GAP|
 | EWH                                   |     -         | -               |   -                                 | 11                    |                -                  |
 | Haus 5 & 8                          |     -          |   -               |   -                              | 5                    |                .                  |
 | Haus 6                                |      -         |    -             |    -                              | 4                   |                -                 |
