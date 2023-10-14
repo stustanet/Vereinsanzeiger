@@ -21,7 +21,7 @@ display_on_front_page: true
 | Oranges Haus (Haus 12)    |  -        |     -    |          -                |             -          |     -      |
 | Rotes Haus (Haus 13)      |    -      |    -     |             -             |            -           |      -     |
 | Haus 14                   |     -    |     -        |                   -                                         | 7                    |           |
-| Max-Bill                  |     -      |     -       | -                                            | 8                     |      -     |-
+| Max-Bill                  |     06.11.23      |     20:00      |  1. Stock GAP                                         | 8                     |      -     |-
 {{< /bootstrap-table >}}
 
 &nbsp;
