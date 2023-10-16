@@ -13,8 +13,8 @@ display_on_front_page: true
 | Haus 3                    | 24.10.23 | 20:00   | zwischen dem Haus 3b und 3d | 6                   |   -        |
 | EWH                       | 01.11.23             | 20:00        | EG GAP                                | 11                    |    -       |
 | Haus 5 & 8              |-                | -         | -                                   | 5                     |     -      |
-| Haus 6                    | -               | -          |      -                               | 4                     |    -       |
-| Haus 7                    | -              |-            |     -                                | 5                     |    -       |
+| Haus 6                    | 02.11.23      |  20:00     |     6A  GAP                                | 4                     |    -       |
+| Haus 7                    | 25.10.23           |20:00         |     7C GAP                              | 5                     |    -       |
 | HSH (Grünes Haus, Haus 9) |   -       |    -     |           -               |          -             |     -      |
 | Haus 10, 17, 18 & 19      |  -     |    -      |              -                               | -                    |    -       |
 | Blaues Haus (Haus 11)     | 26.10.23   |   20:00 |   EWH Vorbau  |  13                 |      -     |
