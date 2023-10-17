@@ -20,8 +20,8 @@ display_on_front_page: true
 | Blaues Haus (Haus 11)     | 26.10.23   |   20:00 |   EWH Vorbau  |  13                 |      -     |
 | Oranges Haus (Haus 12)    |  -        |     -    |          -                |             -          |     -      |
 | Rotes Haus (Haus 13)      |    -      |    -     |             -             |            -           |      -     |
-| Haus 14                   |     -    |     -        |                   -                                         | 7                    |           |
-| Max-Bill                  |     06.11.23      |     20:00      |  1. Stock GAP                                         | 8                     |      -     |-
+| Haus 14                   |  02.11.23  |  20:00       |   Haus 14                                    | 7                    |    -       |
+| Max-Bill                  |     06.11.23      |     20:00      |  1. Stock GAP                                         | 8                     |      -     |
 {{< /bootstrap-table >}}
 
 &nbsp;
