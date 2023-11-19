@@ -18,8 +18,9 @@ Tagesordnung
 5. Spendenbudget
 6. Genehmigung des Haushaltsplans
 7. Wahl der Sonderadministratoren
-8. Fragen an den Vorstand und die Administratoren
-9. Sonstiges
+8. Neueingliederung von Haus 17, 18 und 19
+9. Fragen an den Vorstand und die Administratoren
+10. Sonstiges
 
 
 Zu 7\.: Bewerbungen für Sonderadminämter sind bis kurz vor der Wahl selbst noch möglich (zur einfacheren Organisation bei Interesse am besten bereits vorher eine Mail an [vorstand[at]stustanet.de](https://stustanet.de/mail/vorstand) senden).
