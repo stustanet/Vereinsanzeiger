@@ -20,7 +20,7 @@ Tagesordnung
  7. Wahl des neuen Vorstandes
  8. Wahl der Sonderadministratoren
  9. Wahl des Kassenprüferausschusses
-10.Ernennung von Ehrenmitgliedern
+10. Ernennung von Ehrenmitgliedern
 11. Fragen an den Vorstand und die Administratoren
 12. Sonstiges
 
