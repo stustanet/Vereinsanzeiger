@@ -2,7 +2,7 @@
 title: "Hausadminwahlen für die Amtsperiode im Wintersemester 2023"
 date: 2023-10-07
 draft: false
-display_on_front_page: true
+display_on_front_page: false
 ---
 
 {{< bootstrap-table >}}
