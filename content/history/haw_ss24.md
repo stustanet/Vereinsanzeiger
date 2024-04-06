@@ -17,7 +17,7 @@ display_on_front_page: true
 | Haus 7                    | -           |-        |     -                             | 5                     |    -       |
 | HSH (Grünes Haus, Haus 9) |   -       |    -     |           -               |          -             |     -      |
 | Haus 10      |  -     |    -      |              -                               | -                    |    -       |
-| Blaues Haus (Haus 11)     | 30.04.24   |   20:00 |   EWH Vorbau  |  13                 |      -     |
+| Blaues Haus (Haus 11)     | 30.04.2024   |   20:00 |   EWH Vorbau  |  13                 |      -     |
 | Oranges Haus (Haus 12)    |  -        |     -    |          -                |             -          |     -      |
 | Rotes Haus (Haus 13)      |    -      |    -     |             -             |            -           |      -     |
 | Haus 14                   | -  | -     |   -                                   | 7                    |    -       |
