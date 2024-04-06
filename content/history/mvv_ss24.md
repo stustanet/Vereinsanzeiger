@@ -25,5 +25,5 @@ Tagesordnung
 12. Sonstiges
 
 
-Zu 7.: Bewerbungen für Vorstandsämter sind bis zum 22.05.2024 um 23:59 Uhr) per E-Mail an [admins[at]stustanet.de](https://stustanet.de/mail/admins) möglich (Bewerbung nur explizit auf ein Amt; mehrere Bewerbungen möglich; als DIN A4 PDF mit Foto).  
+Zu 7.: Bewerbungen für Vorstandsämter sind bis zum 22.05.2024 um 23:59 Uhr  per E-Mail an [admins[at]stustanet.de](https://stustanet.de/mail/admins) möglich (Bewerbung nur explizit auf ein Amt; mehrere Bewerbungen möglich; als DIN A4 PDF mit Foto).  
 Zu 8\. und 9.: Bewerbungen für Sonderadmin- und Kassenprüferämter sind bis kurz vor der Wahl selbst noch möglich (zur einfacheren Organisation bei Interesse am besten bereits vorher eine Mail an [vorstand[at]stustanet.de](https://stustanet.de/mail/vorstand) senden).  
