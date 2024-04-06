@@ -2,7 +2,7 @@
 title: "Mitgliedervollversammlung im Wintersemester 2023/2024"
 date: 2023-11-19T10:47:15+01:00
 draft: false
-display_on_front_page: true
+display_on_front_page: false
 ---
 
 Datum: _14. Dezember 2023, 20:00 Uhr_  
