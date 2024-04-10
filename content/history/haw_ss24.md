@@ -8,7 +8,7 @@ display_on_front_page: true
 {{< bootstrap-table >}}
 | Haus                      | Datum    | Uhrzeit | Ort                      | Max. Anzahl an Admins | Bemerkung |
 |---------------------------|:---------|:--------|:-------------------------|----------------------:|-----------|
-| MKH und O2 Wohnwürfel     |- | - | -        | 9                     |     -      |
+| MKH und O2 Wohnwürfel     | | - | -        | 9                     |     -      |
 | Haus 2                    | -  | -   | -                    |   5      |
 | Haus 3 , 17, 18 & 19                  | 23.04.2024 | 20:00  | Zwischen 3B und 3D | 6                   |   -        |
 | EWH                       | 23.04.2024            | 20:00        | EWH Vorbau                               | 11                    |    -       |
