@@ -9,7 +9,7 @@ display_on_front_page: true
 | Haus                      | Datum    | Uhrzeit | Ort                      | Max. Anzahl an Admins | Bemerkung |
 |---------------------------|:---------|:--------|:-------------------------|----------------------:|-----------|
 | MKH und O2 Wohnwürfel     |- | - | -        | 9                     |     -      |
-| Haus 2                    | -  | -   | -                    |   5      |
+| Haus 2                    | 29.04.2024  | 20:00 |  Haus  2a                |   5      |
 | Haus 3 , 17, 18 & 19                  | 23.04.2024 | 20:00  | Zwischen 3B und 3D | 6                   |   -        |
 | EWH                       | 23.04.2024            | 20:00        | EWH Vorbau                               | 11                    |    -       |
 | Haus 5 & 8              | 26.04.2024     |17:30 |                 Haus 5b Balkon             | 5                     |     -      |
