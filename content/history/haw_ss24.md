@@ -8,7 +8,7 @@ display_on_front_page: true
 {{< bootstrap-table >}}
 | Haus                      | Datum    | Uhrzeit | Ort                      | Max. Anzahl an Admins | Bemerkung |
 |---------------------------|:---------|:--------|:-------------------------|----------------------:|-----------|
-| MKH und O2 Wohnwürfel     | | - | -        | 9                     |     -      |
+| MKH und O2 Wohnwürfel     |- | - | -        | 9                     |     -      |
 | Haus 2                    | -  | -   | -                    |   5      |
 | Haus 3 , 17, 18 & 19                  | 23.04.2024 | 20:00  | Zwischen 3B und 3D | 6                   |   -        |
 | EWH                       | 23.04.2024            | 20:00        | EWH Vorbau                               | 11                    |    -       |
@@ -20,7 +20,7 @@ display_on_front_page: true
 | Blaues Haus (Haus 11)     | 30.04.2024   |   20:00 |   EWH Vorbau  |  13                 |      -     |
 | Oranges Haus (Haus 12)    |  -        |     -    |          -                |             -          |     -      |
 | Rotes Haus (Haus 13)      |    -      |    -     |             -             |            -           |      -     |
-| Haus 14                   | -  | -     |   -                                   | 7                    |    -       |
+| Haus 14                   | 29.04.2024 | 20:00  |   EWH Vorbau                                 | 7                    |    -       |
 | Max-Bill                  |    29.04.2024     | 19:00  | 1. Stock   GAP                                   | 8                     |      -     |
 {{< /bootstrap-table >}}
 
