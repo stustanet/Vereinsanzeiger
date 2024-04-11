@@ -14,7 +14,7 @@ display_on_front_page: true
 | EWH                       | 23.04.2024            | 20:00        | EWH Vorbau                               | 11                    |    -       |
 | Haus 5 & 8              | 26.04.2024     |17:30 |                 Haus 5b Balkon             | 5                     |     -      |
 | Haus 6                    | 21.04.2024    |  20:00     |    EWH Vorbau                              | 4                     |    -       |
-| Haus 7                    | -           |-        |     -                             | 5                     |    -       |
+| Haus 7                    | 08.05.2024       |20:30     |     Haus  7C GAP                           | 5                     |    -       |
 | HSH (Grünes Haus, Haus 9) |   -       |    -     |           -               |          -             |     -      |
 | Haus 10      |  -     |    -      |              -                               | -                    |    -       |
 | Blaues Haus (Haus 11)     | 30.04.2024   |   20:00 |   EWH Vorbau  |  13                 |      -     |
