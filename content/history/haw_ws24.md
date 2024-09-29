@@ -11,7 +11,7 @@ display_on_front_page: true
 | MKH und O2 Wohnwürfel     | - | -  | -     | 9                     |     -      |
 | Haus 2                    |-| - | -   | 5                     |   -        |
 | Haus 3 , 17, 18 & 19                  | -| -  | -| 6                   |   -        |
-| EWH                       | -            | -        | -                             | 11                    |    -       |
+| EWH                       |17.10.2024           |  20:00     |     EWH Vorbau                             | 11                    |    -       |
 | Haus 5 & 8              |-               | -         | -                                 | 5                     |     -      |
 | Haus 6                    | 10.10.2024      |  18:00     |     EWH Vorbau                               | 4                     |    -       |
 | Haus 7                    | -          |-      |    -                              | 5                     |    -       |
