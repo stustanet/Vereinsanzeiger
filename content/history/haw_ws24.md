@@ -12,7 +12,7 @@ display_on_front_page: true
 | Haus 2                    |-| - | -   | 5                     |   -        |
 | Haus 3 , 17, 18 & 19                  | 22.10.2024| 20:00 | zwischen dem Haus b & d | 6                   |   -        |
 | EWH                       |17.10.2024           |  20:00     |     EWH Vorbau                             | 11                    |    -       |
-| Haus 5 & 8              |-               | -         | -                                 | 5                     |     -      |
+| Haus 5 & 8              | 07.11.2024              | ?        | ?                               | 5                     |     -      |
 | Haus 6                    | 10.10.2024      |  18:00     |     EWH Vorbau                               | 4                     |    -       |
 | Haus 7                    | -          |-      |    -                              | 5                     |    -       |
 | HSH (Grünes Haus, Haus 9) |   -       |    -     |           -               |          -             |     -      |
