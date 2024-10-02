@@ -1,5 +1,5 @@
 ---
-title: "Hausadminwahlen für die Amtsperiode im Wintersemester 2023"
+title: "Hausadminwahlen für die Amtsperiode im Wintersemester 2024"
 date: 2024-09-23
 draft: false
 display_on_front_page: true
