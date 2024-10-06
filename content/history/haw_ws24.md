@@ -8,20 +8,20 @@ display_on_front_page: true
 {{< bootstrap-table >}}
 | Haus                      | Datum    | Uhrzeit | Ort                      | Max. Anzahl an Admins | Bemerkung |
 |---------------------------|:---------|:--------|:-------------------------|----------------------:|-----------|
-| MKH und O2 Wohnwürfel     | - | -  | -     | 9                     |     -      |
+| MKH und O2 Wohnwürfel     | ? | ?| ?    | 9                     |     -      |
 | Haus 2                    |04.11.2024| 20:00 | Haus 2a | 5                     |   -        |
 | Haus 3 , 17, 18 & 19                  | 22.10.2024| 20:00 | zwischen dem Haus b & d | 6                   |   -        |
 | EWH                       |17.10.2024           |  20:00     |     EWH Vorbau                             | 11                    |    -       |
 | Haus 5 & 8              | 07.11.2024              | ?        | ?                               | 5                     |     -      |
 | Haus 6                    | 10.10.2024      |  18:00     |     EWH Vorbau                               | 4                     |    -       |
-| Haus 7                    | -          |-      |    -                              | 5                     |    -       |
+| Haus 7                    | ?| ?    |    ?                             | 5                     |    -       |
 | HSH (Grünes Haus, Haus 9) |   -       |    -     |           -               |          -             |     -      |
 | Haus 10      |  -     |    -      |              -                               | -                    |    -       |
 | Blaues Haus (Haus 11)     | 29.10.2024 |   20:00|   EWH Vorbau |  13                 |      -     |
 | Oranges Haus (Haus 12)    |  -        |     -    |          -                |             -          |     -      |
 | Rotes Haus (Haus 13)      |    -      |    -     |             -             |            -           |      -     |
-| Haus 14                   |  - |  -       |   -                                   | 7                    |    -       |
-| Max-Bill                  |     25.10.2024   |    18:00   |  -                                        | 8                     |      -     |
+| Haus 14                   | ? |  ?    |   ?                                 | 7                    |    -       |
+| Max-Bill                  |     25.10.2024   |    18:00   |  1. Stock GAP                                   | 8                     |      -     |
 {{< /bootstrap-table >}}
 
 &nbsp;
