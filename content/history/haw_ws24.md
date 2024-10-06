@@ -9,7 +9,7 @@ display_on_front_page: true
 | Haus                      | Datum    | Uhrzeit | Ort                      | Max. Anzahl an Admins | Bemerkung |
 |---------------------------|:---------|:--------|:-------------------------|----------------------:|-----------|
 | MKH und O2 Wohnwürfel     | - | -  | -     | 9                     |     -      |
-| Haus 2                    |-| - | -   | 5                     |   -        |
+| Haus 2                    |04.11.2024| 20:00 | Haus 2a | 5                     |   -        |
 | Haus 3 , 17, 18 & 19                  | 22.10.2024| 20:00 | zwischen dem Haus b & d | 6                   |   -        |
 | EWH                       |17.10.2024           |  20:00     |     EWH Vorbau                             | 11                    |    -       |
 | Haus 5 & 8              | 07.11.2024              | ?        | ?                               | 5                     |     -      |
@@ -21,7 +21,7 @@ display_on_front_page: true
 | Oranges Haus (Haus 12)    |  -        |     -    |          -                |             -          |     -      |
 | Rotes Haus (Haus 13)      |    -      |    -     |             -             |            -           |      -     |
 | Haus 14                   |  - |  -       |   -                                   | 7                    |    -       |
-| Max-Bill                  |     -    |     -     |  -                                        | 8                     |      -     |
+| Max-Bill                  |     25.10.2024   |    18:00   |  -                                        | 8                     |      -     |
 {{< /bootstrap-table >}}
 
 &nbsp;
