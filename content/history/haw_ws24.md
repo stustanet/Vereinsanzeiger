@@ -20,7 +20,7 @@ display_on_front_page: true
 | Blaues Haus (Haus 11)     | 29.10.2024 |   20:00|   EWH Vorbau |  13                 |      -     |
 | Oranges Haus (Haus 12)    |  -        |     -    |          -                |             -          |     -      |
 | Rotes Haus (Haus 13)      |    -      |    -     |             -             |            -           |      -     |
-| Haus 14                   | 28.10.2024|  ?    |   ?                                 | 7                    |    -       |
+| Haus 14                   | 05.11.2024|  19:00    |   EWH Vorbau                                | 7                    |    -       |
 | Max-Bill                  |     25.10.2024   |    18:00   |  1. Stock GAP                                   | 8                     |      -     |
 {{< /bootstrap-table >}}
 
