@@ -14,7 +14,7 @@ display_on_front_page: true
 | EWH                       |17.10.2024           |  20:00     |     EWH Vorbau                             | 11                    |    -       |
 | Haus 5 & 8              | 24.10.2024             | 18:00       | GAP 5b| 5                     |     -      |
 | Haus 6                    | 10.10.2024      |  18:00     |     EWH Vorbau                               | 4                     |    -       |
-| Haus 7                    | ?| ?    |    ?                             | 5                     |    -       |
+| Haus 7                    | 11.11.2024| 20:00    |    Haus 7a                            | 5                     |    -       |
 | HSH (Grünes Haus, Haus 9) |   -       |    -     |           -               |          -             |     -      |
 | Haus 10      |  -     |    -      |              -                               | -                    |    -       |
 | Blaues Haus (Haus 11)     | 29.10.2024 |   20:00|   EWH Vorbau |  13                 |      -     |
