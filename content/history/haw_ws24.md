@@ -11,7 +11,7 @@ display_on_front_page: true
 | MKH und O2 Wohnwürfel     | 30.10.2024| 20:00| Kade   | 9                     |     -      |
 | Haus 2                    |04.11.2024| 20:00 | Haus 2a | 5                     |   -        |
 | Haus 3 , 17, 18 & 19                  | 31.10.2024| 20:00 | zwischen dem Haus b & d | 6                   |   -        |
-| EWH                       |17.10.2024           |  20:00     |     EWH Vorbau                             | 11                    |    -       |
+| EWH                       |13.11.2024           |  20:00     |     4.Stock GAP                             | 11                    |    -       |
 | Haus 5 & 8              | 24.10.2024             | 18:00       | GAP 5b| 5                     |     -      |
 | Haus 6                    | 10.10.2024      |  18:00     |     EWH Vorbau                               | 4                     |    -       |
 | Haus 7                    | 11.11.2024| 20:00    |    Haus 7a                            | 5                     |    -       |
