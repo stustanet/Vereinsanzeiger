@@ -1,6 +1,6 @@
 ---
-title: "Mitgliedervollversammlung im Wintersemester 2023/2024"
-date: 2024-11-1T10:47:15+01:00
+title: "Mitgliedervollversammlung im Wintersemester 2024/2025"
+date: 2024-11-17
 draft: false
 display_on_front_page: true
 ---
