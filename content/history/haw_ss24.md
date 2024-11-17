@@ -2,7 +2,7 @@
 title: "Hausadminwahlen für die Amtsperiode im Sommersemester 2024"
 date: 2024-04-04
 draft: false
-display_on_front_page: true
+display_on_front_page: false
 ---
 
 {{< bootstrap-table >}}

@@ -2,7 +2,7 @@
 title: "Mitgliedervollversammlung im Sommersemester 2024"
 date: 2024-04-06
 draft: false
-display_on_front_page: true
+display_on_front_page: false
 ---
 
 Datum: _23  Mai  2024, 20:00 Uhr_  
