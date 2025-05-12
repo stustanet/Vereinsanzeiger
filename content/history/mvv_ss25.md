@@ -1,5 +1,5 @@
 ---
-title: "Mitgliedervollversammlung im Sommersemester 2024"
+title: "Mitgliedervollversammlung im Sommersemester 2025"
 date: 2025-05-12
 draft: false
 display_on_front_page: true
