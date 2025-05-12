@@ -14,7 +14,7 @@ display_on_front_page: true
 | EWH                       | 14.05.2025         | 20:00      | 4. Stock GAP                              | 11                    |    -       |
 | Haus 5 & 8              | 14.05.2025    |20:00|               Haus 5a GAP| 5                     |     -      |
 | Haus 6                    | 29.04.25   |   20:00  |    Haus 6A GAP                             | 4                     |    -       |
-| Haus 7                    | -       |-  |     -                           | 5                     |    -       |
+| Haus 7                    | 14.05.2025       |-  |     -                           | 5                     |    -       |
 | HSH (Grünes Haus, Haus 9) |   -       |    -     |           -               |          -             |     -      |
 | Haus 10      |  -     |    -      |              -                               | -                    |    -       |
 | Blaues Haus (Haus 11)     | 15.05.2025  |   20:00|   EWH Vorbau  |  13                 |      -     |
