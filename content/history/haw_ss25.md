@@ -1,5 +1,5 @@
 ---
-title: "Hausadminwahlen für die Amtsperiode im Sommersemester 2024"
+title: "Hausadminwahlen für die Amtsperiode im Sommersemester 2025"
 date: 2025-04-04
 draft: false
 display_on_front_page: true
