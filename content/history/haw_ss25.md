@@ -9,19 +9,19 @@ display_on_front_page: true
 | Haus                      | Datum    | Uhrzeit | Ort                      | Max. Anzahl an Admins | Bemerkung |
 |---------------------------|:---------|:--------|:-------------------------|----------------------:|-----------|
 | MKH und O2 Wohnwürfel     |29.04.2025 | 20:00|kade    | 9                     |     -      |
-| Haus 2                    | 14.05.2025 | 21:00| GAP Haus 3d             |   5      |
+| Haus 2                    | 14.05.2025 | 20:00| GAP Haus 2c             |   5      |
 | Haus 3 , 17, 18 & 19                  |29.04.2025 | 20:00  | GAP Haus 3a |     6              |           |
 | EWH                       | 14.05.2025         | 20:00      | 4. Stock GAP                              | 11                    |    -       |
-| Haus 5 & 8              | 14.05.2025    |20:00|               Haus 5a GAP| 5                     |     -      |
+| Haus 5 & 8              | -   |-|               -| 5                     |     -      |
 | Haus 6                    | 29.04.25   |   20:00  |    Haus 6A GAP                             | 4                     |    -       |
-| Haus 7                    | 14.05.2025       |-  |     -                           | 5                     |    -       |
+| Haus 7                    | -      |-  |     -                           | 5                     |    -       |
 | HSH (Grünes Haus, Haus 9) |   -       |    -     |           -               |          -             |     -      |
 | Haus 10      |  -     |    -      |              -                               | -                    |    -       |
 | Blaues Haus (Haus 11)     | 15.05.2025  |   20:00|   EWH Vorbau  |  13                 |      -     |
 | Oranges Haus (Haus 12)    |  -        |     -    |          -                |             -          |     -      |
 | Rotes Haus (Haus 13)      |    -      |    -     |             -             |            -           |      -     |
 | Haus 14                   | 15.04.25 | 20:00 |      GAP Haus 14                     | 7                    |    -       |
-| Max-Bill                  |    -    | -  | -                                   | 8                     |      -     |
+| Max-Bill                  | 21.05.2025   | 19 Uhr | 1.Stock  GAP                                  | 8                     |      -     |
 {{< /bootstrap-table >}}
 &nbsp;
 
