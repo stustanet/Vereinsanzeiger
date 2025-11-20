@@ -17,10 +17,9 @@ Tagesordnung
  4. Wahl des neuen Finanzvorstands
  5. Zukünftige Höhe des Semesterbeitrages (momentan 0 EUR)
  6. Spendenbudget
- 7. Antrag auf Satzungsänderung
- 8. Wahl der Sonderadministratoren
- 9. Fragen an den Vorstand und die Administratoren
-10. Sonstiges
+ 7. Wahl der Sonderadministratoren
+ 8. Fragen an den Vorstand und die Administratoren
+ 9. Sonstiges
 
  
 Zu 8.: Bewerbungen für Sonderadminämter sind bis kurz vor der Wahl selbst noch möglich (zur einfacheren Organisation bei Interesse am besten bereits vorher eine Mail an [vorstand[at]stustanet.de](https://stustanet.de/mail/vorstand) senden).  
