@@ -5,7 +5,7 @@ draft: false
 display_on_front_page: true
 ---
 
-Datum: _11  Juni  2025, 20:00 Uhr_  
+Datum: _11  Juni  2026, 20:00 Uhr_  
 Ort: _EWH-Vorbau_  
 
 Tagesordnung
