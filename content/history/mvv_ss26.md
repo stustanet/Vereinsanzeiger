@@ -1,6 +1,6 @@
 ---
 title: "Mitgliedervollversammlung im Sommersemester 2026"
-date: 2026-05-11
+date: 2026-06-11
 draft: false
 display_on_front_page: true
 ---
